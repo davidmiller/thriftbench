@@ -1,0 +1,10 @@
+
+*.pyc
+
+*.log
+
+monitor.pid
+
+test_sortset*
+thrift-bench.xml*
+thrift-test.xml*
